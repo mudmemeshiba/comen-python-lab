@@ -1,2 +1,2 @@
 # comen-python-lab
-python codes from comprog subject at my university
+Here are my python codes from a programming course i took in during the first semester of college
