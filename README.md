@@ -1,2 +1,2 @@
-# elab-python-comen
-Here are my python codes from a programming course i took in during the first semester of college
+# elab-python-cpe
+Here are my python codes from the programming course i took in during the first semester of college
